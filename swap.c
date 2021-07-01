@@ -24,3 +24,7 @@ void ssort(int arr[], int l){
   }
   printf("\n");
 }
+int main(void) {
+  test_swap_max();
+  test_ssort();
+  }
